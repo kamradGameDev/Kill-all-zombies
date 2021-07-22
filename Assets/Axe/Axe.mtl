@@ -1,0 +1,22 @@
+newmtl Wood
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Axe_Wood_Albedo.tga
+bump Axe_Wood_Height.tga
+map_bump Axe_Wood_Normal.tga
+newmtl Material
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Axe_Material_Albedo.tga
+bump Axe_Material_Height.tga
+map_bump Axe_Material_Normal.tga
